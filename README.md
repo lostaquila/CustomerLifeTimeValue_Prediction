@@ -8,7 +8,7 @@
 <br>
 
 Heroku App Link  : https://customer-value-pred-kunal.herokuapp.com/
-## DEPLOYMENT OUTPUT 
+
 
 
 
