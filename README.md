@@ -3,7 +3,7 @@
 #  CUSTOMER LIFE TIME VALUE PREDICTION
 <br>
 
-![Alt Text](https://github.com/DheerajKumar97/Automated-ML-Application-for-EDA-Streamlit-Deployment--Heroku/blob/master/heroku-.png)
+
 
 <br>
 
