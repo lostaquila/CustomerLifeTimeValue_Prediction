@@ -10,7 +10,7 @@
 Heroku App Link  : https://customer-value-pred-kunal.herokuapp.com/
 ## DEPLOYMENT OUTPUT 
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clvout.png)
+
 
 
 
@@ -163,16 +163,4 @@ Heroku App Link  : https://customer-value-pred-kunal.herokuapp.com/
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot%20maritalstatus.png)
 
-## Histogram Analysis
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%201.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%202.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%203.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar1%20total%20cliam%20vs%20education.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar2%20total%20cliam%20vs%20Gender.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar3%20total%20cliam%20vs%20empstatus.png)
